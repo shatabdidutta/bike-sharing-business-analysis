@@ -585,6 +585,6 @@ Suitable for:
 
 # 👨‍💻 Author
 
-Bike Sharing Analytics using BigQuery SQL
+Shatabdi Dutta
 
-Built for advanced SQL practice, portfolio development, and business analytics learning.
+
